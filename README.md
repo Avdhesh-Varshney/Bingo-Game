@@ -47,7 +47,7 @@ https://github.com/Avdhesh-Varshney/Bingo-Game/assets/114330097/e06cb0f3-8b6e-46
 
 <br>
 
-## **Author 👦**
+## **Developed By 👦**
 
 [Avdhesh Varshney](https://github.com/Avdhesh-Varshney)
 
