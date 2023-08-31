@@ -1,9 +1,6 @@
 # **Bingo Game**
 
----
-
 <br>
-
 
 ## **Description 📃** 
 
@@ -16,7 +13,7 @@
 
 <br>
 
-## **functionalities 🎮** 
+## **Functionalities 🎮** 
 
 - 🕹️ Shuffling of 25 numbers 🎮
 - 🎮 Initializing scores at start of the game and score calculation after every "hit" 🕹️
@@ -27,13 +24,11 @@
 
 <br>
 
-
 ## **Screenshots 📸**
 
 ![Screenshot](https://drive.google.com/uc?export=view&id=1TjJ86xXAgWhIN8Lc6Z7DIhWh0u8IPRIQ)
 
 <br>
-
 
 ## **How to play? 🕹️**
 
@@ -46,19 +41,14 @@
 
 <br>
 
-
-
 ## **Working video 📹**
 
 https://github.com/Avdhesh-Varshney/Bingo-Game/assets/114330097/e06cb0f3-8b6e-46bf-8344-d992e5a4bc09
 
-
 <br>
-
 
 ## **Author 👦**
 
 [Avdhesh Varshney](https://github.com/Avdhesh-Varshney)
 
 <br>
-
