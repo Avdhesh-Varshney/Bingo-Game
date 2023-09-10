@@ -239,14 +239,43 @@ body:focus {
     margin-right: 10px;
 }
 
+
 #audioControls #muteButton {
     background-color: #e74c3c;
     color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
 #audioControls #unmuteButton {
     background-color: #27ae60;
     color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#audioControls #unmuteButton:hover {
+    background-color: #01070b;
+
+}
+#audioControls #muteButton:hover {
+    background-color: #040f17;
+}
+#audioControls #unmuteButton:focus {
+    animation: pulse 1s infinite;
+}
+#audioControls #muteButton:focus {
+    animation: pulse 1s infinite;
+}
+#audioControls #unmuteButton:active {
+    background-color: #1c6da8;
+}
+#audioControls #muteButton:active {
+    background-color: #1c6da8;
 }
 
 .audioSliderContainer {
