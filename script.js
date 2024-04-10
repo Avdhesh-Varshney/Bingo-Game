@@ -3,19 +3,19 @@ const container = document.querySelector('.container');
 
 // Audio controls
 const crossSound = new Audio();
-crossSound.src = 'https://drive.google.com/uc?export=download&id=1dBy5Q_eegdPJLykeixVFt677NsrRrzLE';
+crossSound.src = './assets/sounds/crossSound.m4a';
 
 const drawSound = new Audio();
-drawSound.src = 'https://drive.google.com/uc?export=download&id=1grO1FOdz3xLP4BZAp2ohclChPvZkrpTZ';
+drawSound.src = './assets/sounds/gameOver.wav';
 
 const failSound = new Audio();
-failSound.src = 'https://drive.google.com/uc?export=download&id=1ZocLzAaiafCejzF3etQFQ_NBOlxorQmX';
+failSound.src = './assets/sounds/failSound.mp3';
 
 const winSound = new Audio();
-winSound.src = 'https://drive.google.com/uc?export=download&id=1qxb5HdgZ4GeAvEM9x3VO0isFhPgMdVsY';
+winSound.src = './assets/sounds/winSound.mp3';
 
 const welcomeSound = new Audio();
-welcomeSound.src = 'https://drive.google.com/uc?export=download&id=1mROFDnoIAhUf8M55lK89qVFABt38x5Ql';
+welcomeSound.src = './assets/sounds/welcomeSound.mp3';
 
 
 // On the loading of the game
@@ -328,7 +328,6 @@ function startGame(numPlayers) {
                 }
             }
         }
-        console.log(`Total -> ${total}`)
         if (total === 1) {
             winSound.play();
             giveCongratulations(id);

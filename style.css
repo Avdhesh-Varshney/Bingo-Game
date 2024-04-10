@@ -203,7 +203,7 @@ body:focus {
 .strikeout {
     font-size: 18pt;
     pointer-events: none;
-    background-image: url('https://drive.google.com/uc?export=view&id=1__gkphUEOsarfKOEaGEkAsDAGGQIOH3t');
+    background-image: url('./assets/images/cut.svg');
     background-size: 50% auto;
     background-repeat: no-repeat;
     background-position: center;
