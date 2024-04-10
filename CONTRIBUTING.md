@@ -1,80 +1,70 @@
-Follow these steps to contribute
+<h1 align="center">Contributors Guide⚡ </h1>
+<h3 align="center">Welcome to our open-source project! 😍<br> We appreciate your interest in contributing.😊 <br>This guide will help you get started with the project and make your first contribution.</h3>
 
-# Code Contribution Guidelines
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-Thank you for your interest in contributing to our cryptocurrency app! This document outlines the guidelines and expectations for code contributions. Please take the time to read and follow these guidelines to ensure a smooth and effective collaboration.
+<h1 align="center">Creating first Pull Request 🌟</h1>
 
-## Contribution Types
+---
+1. Star this repository.
+2. Fork this repository.
+3. Clone the forked repository.
+```css
+git clone https://github.com/<your-github-username>/Bingo-Game.git
+```
+  
+4. Navigate to the project directory.
+```py
+cd Bingo-Game
+```
+5. Create a new branch.
+```css
+git checkout -b <your_branch_name>
+```
+6. Make changes.
+7. Stage your changes and commit
+```css
+git add .
+git commit -m "<your_commit_message>"
+```
+8. Push your local commits to the remote repo.
+```css
+git push -u origin <your_branch_name>
+```
+9. Create a Pull Request.
+10. Congratulations! 🎉 you've made your contribution.
 
-We welcome the following types of contributions:
 
-1. Bug fixes and issue resolutions
-2. New feature implementations
-3. Performance optimizations
-4. Code refactoring and improvements
-5. Documentation enhancements
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## Code Style and Standards
+## :zap: Communication and Support 💬
+- Join the project's communication channels to interact with other contributors and seek assistance.
+- If you have any questions or need help, don't hesitate to ask in the project's communication channels or comment on the relevant issue.
 
-To maintain code consistency and readability, please adhere to the following coding style and standards:
+## :zap: Code of Conduct 😇
+Please follow our project's code of conduct while contributing.</br>Treat all contributors and users with respect and create a positive and inclusive environment for everyone.
 
-1. Use [programming language HTML, CSS, JAVASCRIPT, REACTJS, MATERIALUI, COINGECKO API].
-2. Write self-explanatory variable and function names.
-3. Include comments for complex or non-obvious code sections.
-4. Use meaningful commit messages and follow the [2.0 VERSION ] commit conventions.
+## :zap: License 📄
+The project is licensed under ***MIT***. Make sure to review and comply with the license terms.</br>We hope this guide helps you get started with contributing to our open-source project. Thank you for your contribution!
 
-## Contribution Process
+## :zap: Need more help?🤔
 
-To submit your code contributions, please follow these steps:
+You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck:
 
-1. Fork the repository to your own GitHub account.
-2. Create a new branch for your changes: `git checkout -b branch-name`.
-3. Make your code changes, ensuring they adhere to the code style and standards mentioned above.
-4. Write tests to cover the functionality you've added or modified.
-5. Commit your changes and push the branch to your forked repository.
-6. Open a pull request (PR) against the main repository's `master` branch.
-7. Provide a detailed description of your changes, including relevant context, testing results, and any necessary documentation updates.
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
 
-## Review and Approval Process
 
-Our team will review your pull request and provide feedback as soon as possible. To increase the chances of your contribution being accepted:
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-1. Address any feedback or suggestions provided during the review process.
-2. Ensure your code passes all tests and doesn't introduce new issues.
-3. Include thorough documentation for new features or modifications.
-4. Maintain a constructive and collaborative attitude during discussions.
 
-## Issue Reporting
+## :zap: Note from Admin ❗
 
-If you encounter any bugs or issues while using the app, please report them through our issue tracking system. When reporting issues, please provide the following information:
+- We welcome contributions from everyone. However, please avoid spamming the repository with irrelevant issues & pull requests. We reserve the right to mark PRs as invalid if they are not relevant.
 
-1. Steps to reproduce the issue.
-2. Relevant error messages or logs.
-3. Expected behavior and actual behavior observed.
-4. Version or commit hash of the app.
-5. Any additional context or screenshots that may be helpful.
-
-## Licensing and Intellectual Property
-
-By contributing code to this project, you agree to license your contributions under the project's #LICENCE.txt. Please make sure you have read and understood the license terms before submitting any contributions.
-
-## Code of Conduct
-
-We expect all contributors to adhere to our #CODE_OF_CONDUCT. It promotes a welcoming and inclusive community environment. Please familiarize yourself with the code of conduct and report any violations to the project maintainers.
-
-## Communication Channels
-
-If you have any questions, need assistance, or want to engage with the community, you can reach out through the following communication channels:
-
-- [LinkedIn](https://www.linkedin.com/in/avdhesh-varshney-5314a4233/)
-- [Mail](avdheshvarshney786@gmail.com)
-
-## Acknowledgment and Recognition
-
-Contributors play a crucial role in the success of this project. We highly appreciate your contributions and strive to recognize your efforts. Depending on the significance of your contribution, we may:
-
-- Include your name and contribution details in the project's documentation.
-- Add you to our contributors' hall of fame.
-- Mention your contribution in release notes or blog posts.
-
-Thank you for considering contributing to our cryptocurrency app. We look forward to your valuable contributions!
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
