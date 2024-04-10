@@ -1,19 +1,20 @@
-# **Bingo Game**
+<h1 align='center'>💥 Bingo Game 💥</h1>
 
-<br>
+<div align='center'>
 
-## **Description 📃** 
+### :zap: **TECH STACK USED** 
 
-- 🎮 This game is built to develop strategic thinking along with recreation 🕹️
-- 🎮 This project is built on a basic web tech stacks such as HTML, CSS and Javascript 🕹️
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<br>
+### :zap: **[Play Game 🎮](https://gamebingo.netlify.app/)**
 
-## **[Play Game 🎮](https://gamebingo.netlify.app/)**
+</div>
 
-<br>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **Functionalities 🎮** 
+## :zap: **FUNCTIONALITIES 🎮** 
 
 - 🕹️ Shuffling of 25 numbers 🎮
 - 🎮 Initializing scores at start of the game and score calculation after every "hit" 🕹️
@@ -22,15 +23,15 @@
 - 🕹️ Also adding background sound in the background of the game, while playing 🎮
 - 🎮 Providing support for the multi-players upto 10 🕹️
 
-<br>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **Screenshots 📸**
+## :zap: **SCREENSHOTS 📸**
 
-![Screenshot](https://drive.google.com/uc?export=view&id=1TjJ86xXAgWhIN8Lc6Z7DIhWh0u8IPRIQ)
+![Screenshot](./assets/images/Screenshot.png)
 
-<br>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **How to play? 🕹️**
+## :zap: **HOW TO PLAY? 🕹️**
 
 - The game will start by asking number of players are playing this game.
 - According to that boards are created and background song starts.
@@ -39,16 +40,16 @@
 - How final outcomes are decided?
     - Who first completed their "B I N G O" letters.
 
-<br>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **Working video 📹**
+## **WORKING VIDEO 📹**
 
 https://github.com/Avdhesh-Varshney/Bingo-Game/assets/114330097/e06cb0f3-8b6e-46bf-8344-d992e5a4bc09
 
-<br>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **Developed By 👦**
+<div align="center">
+  <h3>Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; this repository!</h3>
+</div>
 
-[Avdhesh Varshney](https://github.com/Avdhesh-Varshney)
-
-<br>
+<a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" align="right"/></a>
